@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sarkari Updatewala - Govt Job Updates</title>
+  <meta name="description" content="Get the latest Sarkari Naukri updates, results, admit cards, and more.">
+  <meta name="keywords" content="sarkari naukri, govt jobs, admit card, result, government exam, updatewala">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Sarkari Updatewala</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Jobs</a>
+      <a href="#">Admit Cards</a>
+      <a href="#">Results</a>
+      <a href="#">Syllabus</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="updates">
+      <article>
+        <h2><a href="#">Bihar Police Constable Recruitment 2025 – Apply Now</a></h2>
+        <p>Last date: 31 August 2025 | Eligibility: 12th Pass</p>
+      </article>
+      <article>
+        <h2><a href="#">SSC CGL 2024 Result Declared – Check Now</a></h2>
+        <p>Published on: 20 July 2025</p>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Sarkari Updatewala | All rights reserved</p>
+  </footer>
+</body>
+</html>
